@@ -1,2 +1,2 @@
 # Rothtest
-# Test of version control
+Test of version control
